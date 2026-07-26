@@ -214,7 +214,7 @@ This project was built as a group project for CST8505/CST8510 (AI Software Devel
 - **Aliasgar Husain** — Architecture, MLOps, Lead Developer: built the multi-agent pipeline, risk-scoring rubric, regulatory framework integration, and repository ownership and deployment.
 - **Salahaldin Abu Alhoul** — Scrum Master, UI Developer, RAG: contributed to the frontend UI, wizard and dashboard flow, sprint planning, and initial RAG pipeline design.
 - **Yinyuan Chen** — Architecture, MLOps: contributed to LangFlow agent wiring, GPT-4o integration, and RAG pipeline tuning.
-- **Leen Yassine** — Business Analyst, Software Quality: user stories, AI governance research, Vitest testing for risk scoring and input validation, and UI/UX testing.
+- **Leen Yassine** — Business Analyst & Software Quality: requirements and user stories, NIST AI RMF and ISO/IEC 42001 research, Vitest unit testing for risk scoring and input validation, UI/UX testing, and presentation materials.
 - **Syneeka Toocaram** — Business Analyst: contributed to the scope document, stakeholder alignment, governance artifacts, user acceptance testing, and end-of-term report.
 
 The assessment pipeline is intentionally transparent: all regulatory citations reference real, publicly available framework documents. The per-criterion confidence scores and validation agent flag areas where the evidence provided in the wizard was insufficient to make a high-confidence scoring decision.
