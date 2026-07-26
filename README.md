@@ -129,7 +129,7 @@ AssessmentResult → stored in browser localStorage → rendered on /results
 ### Local Setup
 
 ```bash
-git clone https://github.com/aliasgarxo/sme-ai-risk-demo.git
+git clone https://github.com/LeenYass/sme-ai-risk-demo.git
 cd sme-ai-risk-demo
 npm install
 ```
@@ -207,6 +207,14 @@ sme-ai-risk-demo/
 
 This application was built as a final project for an academic program focused on AI governance and responsible AI adoption. The goal is to demonstrate how AI can be used to help non-technical SME owners understand and manage the risks of their own AI tool deployments — making compliance with NIST AI RMF, ISO 42001, PIPEDA, GDPR, and the EU AI Act accessible without requiring a dedicated legal or AI governance team.
 
-Built by Aliasgar Husain.
+### Contributors
+
+This project was built as a group project for CST8505/CST8510 (AI Software Development) at Algonquin College, for the Canadian Centre of Excellence for Anti-Corruption (CCEAC).
+
+- **Aliasgar Husain** — Architecture, MLOps, Lead Developer: built the multi-agent pipeline, risk-scoring rubric, regulatory framework integration, and repository ownership and deployment.
+- **Salahaldin Abu Alhoul** — Scrum Master, UI Developer, RAG: contributed to the frontend UI, wizard and dashboard flow, sprint planning, and initial RAG pipeline design.
+- **Yinyuan Chen** — Architecture, MLOps: contributed to LangFlow agent wiring, GPT-4o integration, and RAG pipeline tuning.
+- **Leen Yassine** — Business Analyst, Software Quality: user stories, AI governance research, Vitest testing for risk scoring and input validation, and UI/UX testing.
+- **Syneeka Toocaram** — Business Analyst: contributed to the scope document, stakeholder alignment, governance artifacts, user acceptance testing, and end-of-term report.
 
 The assessment pipeline is intentionally transparent: all regulatory citations reference real, publicly available framework documents. The per-criterion confidence scores and validation agent flag areas where the evidence provided in the wizard was insufficient to make a high-confidence scoring decision.
