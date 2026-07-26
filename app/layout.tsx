@@ -3,8 +3,8 @@ import "./globals.css";
 import { ChatWidget } from "@/components/ChatWidget";
 
 export const metadata: Metadata = {
-  title: "SME AI Risk Register",
-  description: "Responsible AI for Canadian Business",
+  title: "SME AI Risk Assessment",
+  description: "AI risk assessment and governance support for Canadian small and medium-sized businesses.",
 };
 
 export default function RootLayout({
